@@ -23,6 +23,6 @@ Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity analyst bui
 ---
 
 ## 📫 Contact
-- Email: [britttbrittt095@gmail.com]
+- Email: britttbrittt095@gmail.com
 # cybersecurity-portfolio
 Entry-level cybersecurity portfolio with labs, tools, and projects.
