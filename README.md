@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio - [Your Name]
+# 🛡️ Cybersecurity Portfolio - ShiannBrittany
 
 Welcome to my cybersecurity portfolio! I'm an aspiring cybersecurity analyst building hands-on skills in ethical hacking, threat detection, and system hardening.
 
